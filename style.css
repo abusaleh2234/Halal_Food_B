@@ -195,6 +195,9 @@ body {
 .p_30px{
     padding: 30px;
 }
+.pt_30px{
+    padding: 30px 15px;
+}
 .fs_12px{
     font-size: 12px;
 }
@@ -204,4 +207,53 @@ body {
 .tHover:hover{
     color: #ffbd17;
     text-decoration: underline;
+}
+.imgP{
+    width: 75px;
+}
+.pName{
+    font-size: 14px;
+    font-weight: normal;
+}
+.table{
+    background-color: #f2f4f8 !important;
+}
+.pt_40px{
+    padding-top: 40px !important;
+}
+.pt_b{
+    padding-top: 30px !important;
+}
+
+.btn_Shop{
+    font-size: 13px;
+    padding: 5px 17px;
+    border: 2px solid black;
+    font-weight: 600;
+}
+.btn_Shop:hover{
+    background-color: black;
+    color: white;
+}
+.btn_Order{
+    font-size: 13px;
+    padding: 5px 17px;
+    border: 2px solid #666666;
+    font-weight: 600;
+    background-color: #666666;
+    color: #fff;
+}
+.cTitle{
+    padding: 8px 0;
+    font-weight: bold;
+    border-bottom: 2px solid #ececec;
+}
+.fs_14px{
+    font-size: 14px;
+}
+.fs_12px{
+    font-size: 12px;
+}
+.t_border{
+    border-bottom: 2px solid #ececec;
 }
