@@ -192,4 +192,16 @@ body {
     color: white;
 }
 
-
+.p_30px{
+    padding: 30px;
+}
+.fs_12px{
+    font-size: 12px;
+}
+.tColor{
+    color: #676767b2;
+}
+.tHover:hover{
+    color: #ffbd17;
+    text-decoration: underline;
+}
